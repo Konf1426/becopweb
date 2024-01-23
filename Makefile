@@ -14,3 +14,6 @@ restart: stop start
 
 update:
 	composer install
+
+update-composer:
+	composer update
